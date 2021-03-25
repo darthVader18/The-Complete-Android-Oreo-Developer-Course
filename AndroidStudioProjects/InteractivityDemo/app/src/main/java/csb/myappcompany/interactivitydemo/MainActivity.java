@@ -1,15 +1,21 @@
-package com.myappcompany.rob.exampleproject;
+package csb.myappcompany.interactivitydemo;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
     public void clickFunction(View view) {
 
-        Log.i("Info", "Button pressed!");
+        EditText editTextTextPersonName = (EditText) findViewById(R.id.editTextTextPersonName);
+
+        Log.i("Info", "It worked!");
+
+        Log.i("Values", editTextTextPersonName.getText().toString());
 
     }
 
