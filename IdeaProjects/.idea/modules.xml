@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays and Maps/Arrays and Maps.iml" filepath="$PROJECT_DIR$/Arrays and Maps/Arrays and Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes and Objects/Classes and Objects.iml" filepath="$PROJECT_DIR$/Classes and Objects/Classes and Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If Statements/If Statements.iml" filepath="$PROJECT_DIR$/If Statements/If Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables/Variables.iml" filepath="$PROJECT_DIR$/Variables/Variables.iml" />
+    </modules>
+  </component>
+</project>
